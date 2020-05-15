@@ -24,6 +24,6 @@
 | | **Day 6** | | |
 | Course | [ GitHub Actions: Continuous Integration ]( https://lab.github.com/githubtraining/github-actions:-continuous-integration) | Advanced | 3-4 Hours |
 
-### Once you are ready, you can apply your skills under the Developer Circle Github repository.
+### Once you are ready, you can apply your skills under the [Developer Circle Github repository]( https://github.com/fbdevelopercircles/FbDevcCommunityContent ). 
 
 #### Curated  by [ Amit Chopra ](https://www.linkedin.com/in/amitchopra/) amitchoprafb@ 
